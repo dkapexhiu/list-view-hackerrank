@@ -1,0 +1,6 @@
+body {
+  font-family: sans-serif;
+}
+#list li:nth-of-type(3n + 3) {
+  color: red;
+}
